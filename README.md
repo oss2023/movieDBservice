@@ -1,5 +1,7 @@
 # movieDBservice
 
+![image](https://cdn.pixabay.com/photo/2019/11/07/20/48/cinema-4609877_1280.jpg)
+
 [주제]
 영화관 티켓관리 Database CRUD로 구현하기
 
