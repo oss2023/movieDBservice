@@ -8,7 +8,8 @@
 
 [필요한 메뉴(기능)] 
 추가, 삭제, 조회, 수정, 파일저장/불러오기, user이름으로 검색, 영화명으로 검색, 상영관별 잔여좌석 확인 
-사용될 member variable: ![image](https://user-images.githubusercontent.com/126534280/236188325-b6da486a-83a1-4a75-93c2-06a6686c130a.png)
+사용될 member variable: ![image](https://user-images.githubusercontent.com/126534280/236189753-4020ea71-2c4a-4a57-89ee-6b9996654b49.png)
+
 
 [개발환경] VSCode
 [개발언어] Java 
