@@ -2,7 +2,7 @@
 
 [주제]
 영화관 티켓관리 Database CRUD로 구현하기
-
+https://cdn.pixabay.com/photo/2019/11/07/20/48/cinema-4609877_1280.jpg
 [소개] 영화관람에 관한 database를 관리하기 위한 서비스입니다. 관람자명, 좌석, 좌석 공석여부 등을 확인할 수 있습니다.
 
 
