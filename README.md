@@ -6,6 +6,7 @@
 
 ## [소개]
 - 영화관람정보에 관한 Database를 관리하기 위한 CRUD 서비스
+
 | 데이터명 | TYPE | Sample Data | 설명 |
 | ------ | -- | -- | ----------- |
 | name | 문자열(공백포함X) | ssu | 예약자의 이름 |
@@ -17,7 +18,7 @@
 
 ## [필요기능]_함수구현
 
-| 기능종류 | 작업여부 | 구현해야할 내용 |
+| 기능종류 | 작업 완료 여부 | 구현해야할 내용 |
 | ------ | -- |----------- |
 | 추가 |  | 데이터 추가 (name, movie_name, seat, movie_price, date, movie_room) |
 | 삭제 |  | 데이터 삭제 (name, movie_name, seat, movie_price, date, movie_room) |
