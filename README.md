@@ -3,7 +3,6 @@
 ![img](https://cdn.pixabay.com/photo/2017/04/29/11/35/movie-2270554__340.png)
 
 ## [주제] 📽️ 영화관 티켓관리 Database CRUD로 구현하기
-***
 
 ## [소개]
 - 영화관람정보에 관한 Database를 관리하기 위한 CRUD 서비스
