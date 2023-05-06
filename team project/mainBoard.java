@@ -89,7 +89,7 @@ public class mainBoard extends JFrame implements ActionListener {
 
 
 
-
+// 이부분을 CLASS로 빼서 각기 다른 Swing창을 띄우면 어떨까 생각합니다!
     @Override
     public void actionPerformed(ActionEvent e) {
         String s = e.getActionCommand();
